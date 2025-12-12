@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Millennium-stack&style=for-the-badge&color=6366F1" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Millennium-stack?style=for-the-badge&color=6366F1" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=millenniumsingha&style=for-the-badge&color=6366F1" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/millenniumsingha?style=for-the-badge&color=6366F1" alt="Followers"/>
 </p>
 
 ---
@@ -105,7 +105,7 @@ I'm a **Software Engineering Honours student** at **The University of Queensland
 <td width="50%">
 <h3 align="center">SOS StaySafe</h3>
 <p align="center">
-  <a href="https://github.com/Millennium-stack/SOS_STAYSAFE">
+  <a href="https://github.com/millenniumsingha/SOS_STAYSAFE">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
     <img src="https://img.shields.io/badge/27_commits-181717?style=flat-square&logo=git&logoColor=white"/>
@@ -118,7 +118,7 @@ I'm a **Software Engineering Honours student** at **The University of Queensland
 <td width="50%">
 <h3 align="center">Real-Time Info Dashboard</h3>
 <p align="center">
-  <a href="https://github.com/Millennium-stack/real-time-info-dashboard">
+  <a href="https://github.com/millenniumsingha/real-time-info-dashboard">
     <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
     <img src="https://img.shields.io/badge/27_commits-181717?style=flat-square&logo=git&logoColor=white"/>
@@ -133,7 +133,7 @@ I'm a **Software Engineering Honours student** at **The University of Queensland
 <td width="50%">
 <h3 align="center">News App Android</h3>
 <p align="center">
-  <a href="https://github.com/Millennium-stack/NEWS_APP_ANDROID">
+  <a href="https://github.com/millenniumsingha/NEWS_APP_ANDROID">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=square&logoColor=white"/>
     <img src="https://img.shields.io/badge/17_commits-181717?style=flat-square&logo=git&logoColor=white"/>
@@ -146,7 +146,7 @@ I'm a **Software Engineering Honours student** at **The University of Queensland
 <td width="50%">
 <h3 align="center">Fashion MNIST Classifier</h3>
 <p align="center">
-  <a href="https://github.com/Millennium-stack/ImageClassification_FashionMNIST">
+  <a href="https://github.com/millenniumsingha/ImageClassification_FashionMNIST">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
     <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
@@ -161,7 +161,7 @@ I'm a **Software Engineering Honours student** at **The University of Queensland
 <td width="50%">
 <h3 align="center">Weather Trend Analyzer</h3>
 <p align="center">
-  <a href="https://github.com/Millennium-stack/weather-trend">
+  <a href="https://github.com/millenniumsingha/weather-trend">
     <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/Data_Analysis-4285F4?style=flat-square&logo=google-analytics&logoColor=white"/>
     <img src="https://img.shields.io/badge/19_commits-181717?style=flat-square&logo=git&logoColor=white"/>
@@ -174,7 +174,7 @@ I'm a **Software Engineering Honours student** at **The University of Queensland
 <td width="50%">
 <h3 align="center">Musical Instrument</h3>
 <p align="center">
-  <a href="https://github.com/Millennium-stack/musical-instrument">
+  <a href="https://github.com/millenniumsingha/musical-instrument">
     <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/NAudio-5C2D91?style=flat-square&logo=windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/18_commits-181717?style=flat-square&logo=git&logoColor=white"/>
@@ -189,7 +189,7 @@ I'm a **Software Engineering Honours student** at **The University of Queensland
 <td width="50%">
 <h3 align="center">Eight Queens Solver</h3>
 <p align="center">
-  <a href="https://github.com/Millennium-stack/eight-queens">
+  <a href="https://github.com/millenniumsingha/eight-queens">
     <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/Algorithms-FF6B6B?style=flat-square&logo=hackerrank&logoColor=white"/>
     <img src="https://img.shields.io/badge/17_commits-181717?style=flat-square&logo=git&logoColor=white"/>
@@ -202,7 +202,7 @@ I'm a **Software Engineering Honours student** at **The University of Queensland
 <td width="50%">
 <h3 align="center">Geo Locator</h3>
 <p align="center">
-  <a href="https://github.com/Millennium-stack/geo-locator">
+  <a href="https://github.com/millenniumsingha/geo-locator">
     <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/HERE_Maps-48DAD0?style=flat-square&logo=here&logoColor=white"/>
     <img src="https://img.shields.io/badge/13_commits-181717?style=flat-square&logo=git&logoColor=white"/>
@@ -222,11 +222,11 @@ I'm a **Software Engineering Honours student** at **The University of Queensland
 </p>
 
 <p align="center">
-  <a href="https://github.com/Millennium-stack/cs50-s-Mario-pyramid-problem-set"><img src="https://img.shields.io/badge/Mario_Pyramid-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
-  <a href="https://github.com/Millennium-stack/cs50-s-Credit-Card-Verification"><img src="https://img.shields.io/badge/Credit_Verification-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
-  <a href="https://github.com/Millennium-stack/cs50s-Substitution_Cipher"><img src="https://img.shields.io/badge/Substitution_Cipher-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
-  <a href="https://github.com/Millennium-stack/cs50s-Plurality-Problem-Set"><img src="https://img.shields.io/badge/Plurality_Voting-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
-  <a href="https://github.com/Millennium-stack/cs50s-Runoff-Problem-Set"><img src="https://img.shields.io/badge/Runoff_Election-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
+  <a href="https://github.com/millenniumsingha/cs50-s-Mario-pyramid-problem-set"><img src="https://img.shields.io/badge/Mario_Pyramid-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
+  <a href="https://github.com/millenniumsingha/cs50-s-Credit-Card-Verification"><img src="https://img.shields.io/badge/Credit_Verification-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
+  <a href="https://github.com/millenniumsingha/cs50s-Substitution_Cipher"><img src="https://img.shields.io/badge/Substitution_Cipher-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
+  <a href="https://github.com/millenniumsingha/cs50s-Plurality-Problem-Set"><img src="https://img.shields.io/badge/Plurality_Voting-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
+  <a href="https://github.com/millenniumsingha/cs50s-Runoff-Problem-Set"><img src="https://img.shields.io/badge/Runoff_Election-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
 </p>
 
 ---
@@ -234,16 +234,16 @@ I'm a **Software Engineering Honours student** at **The University of Queensland
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Millennium-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millennium-stack&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=millenniumsingha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millenniumsingha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Millennium-stack&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=millenniumsingha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Millennium-stack&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=millenniumsingha&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -262,7 +262,7 @@ I'm a **Software Engineering Honours student** at **The University of Queensland
 ## Research & Publications
 
 <p align="center">
-  <a href="#">
+  <a href="https://www.researchgate.net/publication/332762115_A_Deep_Dissertion_of_Data_Science_Related_Issues_and_its_Applications">
     <img src="https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
   </a>
 </p>
