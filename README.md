@@ -46,11 +46,11 @@ interests:
 philosophy: "Building technology that is functional, accessible, and ethical."
 ```
 
-I'm a **Software Engineering Honours student** driven by a passion for building meaningful and practical technology. My journey has involved creating real-world solutions—from safety-focused digital tools to intelligent systems—often in team settings that challenged me to think critically, adapt quickly, and communicate effectively.
+I'm a **Software Engineering Honours student** who genuinely enjoys figuring things out. Whether it's building a safety app, tinkering with embedded systems, or collaborating on team projects—I'm always learning something new and often surprised by where the journey takes me.
 
-Beyond the classroom, I've led student initiatives, delivered peer learning experiences, and actively contributed to tech communities. My efforts in innovation and engagement were recognised through **national-level program selections** and **finalist placements**, reinforcing my commitment to applying technology in ways that create value and opportunity for others.
+I've had the chance to be part of some cool initiatives along the way—student communities, peer learning sessions, and a few programs that pushed me outside my comfort zone. Still figuring out a lot, but that's part of the fun.
 
-I'm especially interested in the **intersection of software, design, and social impact**—approaching every project with curiosity, purpose, and a focus on making systems that are not only functional but accessible and ethical.
+What keeps me curious? The **intersection of software, design, and social impact**. I like building things that actually help people, and I try to keep accessibility and ethics in mind (even when I don't have all the answers yet).
 
 ---
 
