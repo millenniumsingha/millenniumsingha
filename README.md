@@ -1,5 +1,9 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:AC5CFF&height=280&section=header&text=Millennium%20Singha&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20UQ%20Honours%20Student&descSize=20&descAlignY=60&fontColor=ffffff"/>
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Millennium+Singha;Software+Engineer+%7C+UQ+Honours+Student;Building+Impactful+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Building+Impactful+Technology;Exploring+Tech,+Design+%26+Society;Turning+Ideas+into+Reality" alt="Typing SVG" />
 </p>
 
 <p align="center">
