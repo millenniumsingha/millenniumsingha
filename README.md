@@ -17,40 +17,22 @@
 
 ## About Me
 
-```yaml
-name: Millennium Singha
-pronouns: He/Him
-location: Queensland, Australia
-education:
-  current:
-    degree: Bachelor of Engineering (Honours)
-    major: Software Engineering
-    university: The University of Queensland
-    duration: 2020 - 2026
-  previous:
-    degree: Diploma of Education
-    major: Computer Science
-    university: Amity University
-    duration: 2018 - 2020
-core_skills:
-  - Software Development
-  - Problem Solving
-  - Project Management
-  - Technical Communication
-  - User Experience (UX)
-interests:
-  - Software Architecture & System Design
-  - Embedded Systems & IoT
-  - Human-Computer Interaction
-  - Social Impact Technology
-philosophy: "Building technology that is functional, accessible, and ethical."
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓-Software_Engineering_Honours_@_UQ-6366F1?style=for-the-badge" alt="Education"/>
+  <img src="https://img.shields.io/badge/📍-Queensland,_Australia-6366F1?style=for-the-badge" alt="Location"/>
+</p>
 
-I'm a **Software Engineering Honours student** who genuinely enjoys figuring things out. Whether it's building a safety app, tinkering with embedded systems, or collaborating on team projects—I'm always learning something new and often surprised by where the journey takes me.
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Dev-★-ED8B00?style=flat-square" alt="Software Dev"/>
+  <img src="https://img.shields.io/badge/IoT_&_Embedded-★-3DDC84?style=flat-square" alt="IoT"/>
+  <img src="https://img.shields.io/badge/UX_Design-★-FF6F00?style=flat-square" alt="UX"/>
+  <img src="https://img.shields.io/badge/Social_Impact-★-00629B?style=flat-square" alt="Social Impact"/>
+</p>
 
-I've had the chance to be part of some cool initiatives along the way—student communities, peer learning sessions, and a few programs that pushed me outside my comfort zone. Still figuring out a lot, but that's part of the fun.
-
-What keeps me curious? The **intersection of software, design, and social impact**. I like building things that actually help people, and I try to keep accessibility and ethics in mind (even when I don't have all the answers yet).
+<p align="center">
+  <i>Building things, breaking things, learning along the way.</i><br>
+  <sub>Curious about software, design, and making tech that actually helps people.</sub>
+</p>
 
 ---
 
