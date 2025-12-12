@@ -19,20 +19,38 @@
 
 ```yaml
 name: Millennium Singha
-location: St. Lucia, Queensland, Australia
+pronouns: He/Him
+location: Queensland, Australia
 education:
-  degree: Bachelor of Engineering (Honours)
-  major: Software Engineering
-  university: The University of Queensland
-current_focus:
+  current:
+    degree: Bachelor of Engineering (Honours)
+    major: Software Engineering
+    university: The University of Queensland
+    duration: 2020 - 2026
+  previous:
+    degree: Diploma of Education
+    major: Computer Science
+    university: Amity University
+    duration: 2018 - 2020
+core_skills:
+  - Software Development
+  - Problem Solving
+  - Project Management
+  - Technical Communication
+  - User Experience (UX)
+interests:
   - Software Architecture & System Design
   - Embedded Systems & IoT
-  - Machine Learning Applications
   - Human-Computer Interaction
-philosophy: "Every human is a developer of their own hardware and software."
+  - Social Impact Technology
+philosophy: "Building technology that is functional, accessible, and ethical."
 ```
 
-I'm a **Software Engineering Honours student** at **The University of Queensland**, passionate about creating technology that makes a real difference. From safety-focused mobile applications to intelligent systems, I love exploring the intersection of software, design, and social impact.
+I'm a **Software Engineering Honours student** driven by a passion for building meaningful and practical technology. My journey has involved creating real-world solutions—from safety-focused digital tools to intelligent systems—often in team settings that challenged me to think critically, adapt quickly, and communicate effectively.
+
+Beyond the classroom, I've led student initiatives, delivered peer learning experiences, and actively contributed to tech communities. My efforts in innovation and engagement were recognised through **national-level program selections** and **finalist placements**, reinforcing my commitment to applying technology in ways that create value and opportunity for others.
+
+I'm especially interested in the **intersection of software, design, and social impact**—approaching every project with curiosity, purpose, and a focus on making systems that are not only functional but accessible and ethical.
 
 ---
 
