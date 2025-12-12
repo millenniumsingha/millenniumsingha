@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/m-singha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.millenniumsingha.com/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:millennium.singha@uq.edu.au"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/m-singha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mills909200@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 
@@ -14,15 +13,16 @@
 ## About Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓-Software_Engineering_Honours_@_UQ-6366F1?style=for-the-badge" alt="Education"/>
+  <img src="https://img.shields.io/badge/🎓-Software_Engineering_Honours_@_UQ-6366F1?style=for-the-badge" alt="Education UQ"/>
+  <img src="https://img.shields.io/badge/🎓-Diploma_Comp_Sci_@_Amity_Uni_India-6366F1?style=for-the-badge" alt="Education Amity"/>
   <img src="https://img.shields.io/badge/📍-Queensland,_Australia-6366F1?style=for-the-badge" alt="Location"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software_Dev-★-ED8B00?style=flat-square" alt="Software Dev"/>
-  <img src="https://img.shields.io/badge/IoT_&_Embedded-★-3DDC84?style=flat-square" alt="IoT"/>
-  <img src="https://img.shields.io/badge/UX_Design-★-FF6F00?style=flat-square" alt="UX"/>
-  <img src="https://img.shields.io/badge/Social_Impact-★-00629B?style=flat-square" alt="Social Impact"/>
+  <img src="https://img.shields.io/badge/Table_Tennis-★-ED8B00?style=flat-square" alt="Table Tennis"/>
+  <img src="https://img.shields.io/badge/History-★-3DDC84?style=flat-square" alt="History"/>
+  <img src="https://img.shields.io/badge/Social_Impact-★-FF6F00?style=flat-square" alt="Social Impact"/>
+  <img src="https://img.shields.io/badge/Technology-★-00629B?style=flat-square" alt="Technology"/>
 </p>
 
 <p align="center">
@@ -218,11 +218,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/millenniumsingha/cs50-s-Mario-pyramid-problem-set"><img src="https://img.shields.io/badge/Mario_Pyramid-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
-  <a href="https://github.com/millenniumsingha/cs50-s-Credit-Card-Verification-Problem-Set"><img src="https://img.shields.io/badge/Credit_Verification-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
-  <a href="https://github.com/millenniumsingha/cs50s-Substitution_Cipher-Problem_Set"><img src="https://img.shields.io/badge/Substitution_Cipher-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
-  <a href="https://github.com/millenniumsingha/cs50s-Plurality-Problem-Set"><img src="https://img.shields.io/badge/Plurality_Voting-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
-  <a href="https://github.com/millenniumsingha/cs50s-Runoff-Problem-Set"><img src="https://img.shields.io/badge/Runoff_Election-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
+  <a href="https://github.com/millenniumsingha/cs50-s-Mario-pyramid-problem-set"target="_blank"><img src="https://img.shields.io/badge/Mario_Pyramid-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
+  <a href="https://github.com/millenniumsingha/cs50-s-Credit-Card-Verification-Problem-Set"target="_blank"><img src="https://img.shields.io/badge/Credit_Verification-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
+  <a href="https://github.com/millenniumsingha/cs50s-Substitution_Cipher-Problem_Set"target="_blank"><img src="https://img.shields.io/badge/Substitution_Cipher-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
+  <a href="https://github.com/millenniumsingha/cs50s-Plurality-Problem-Set"target="_blank"><img src="https://img.shields.io/badge/Plurality_Voting-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
+  <a href="https://github.com/millenniumsingha/cs50s-Runoff-Problem-Set"target="_blank"><img src="https://img.shields.io/badge/Runoff_Election-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
 </p>
 
 ---
