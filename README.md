@@ -223,8 +223,8 @@ I'm a **Software Engineering Honours student** at **The University of Queensland
 
 <p align="center">
   <a href="https://github.com/millenniumsingha/cs50-s-Mario-pyramid-problem-set"><img src="https://img.shields.io/badge/Mario_Pyramid-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
-  <a href="https://github.com/millenniumsingha/cs50-s-Credit-Card-Verification"><img src="https://img.shields.io/badge/Credit_Verification-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
-  <a href="https://github.com/millenniumsingha/cs50s-Substitution_Cipher"><img src="https://img.shields.io/badge/Substitution_Cipher-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
+  <a href="https://github.com/millenniumsingha/cs50-s-Credit-Card-Verification-Problem-Set"><img src="https://img.shields.io/badge/Credit_Verification-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
+  <a href="https://github.com/millenniumsingha/cs50s-Substitution_Cipher-Problem_Set"><img src="https://img.shields.io/badge/Substitution_Cipher-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
   <a href="https://github.com/millenniumsingha/cs50s-Plurality-Problem-Set"><img src="https://img.shields.io/badge/Plurality_Voting-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
   <a href="https://github.com/millenniumsingha/cs50s-Runoff-Problem-Set"><img src="https://img.shields.io/badge/Runoff_Election-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
 </p>
@@ -234,12 +234,12 @@ I'm a **Software Engineering Honours student** at **The University of Queensland
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=millenniumsingha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millenniumsingha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=millenniumsingha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/millenniumsingha">
+    <img src="https://img.shields.io/github/stars/millenniumsingha?style=for-the-badge&logo=github&color=6366F1" alt="Total Stars"/>
+  </a>
+  <a href="https://github.com/millenniumsingha?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-17-6366F1?style=for-the-badge&logo=github" alt="Repositories"/>
+  </a>
 </p>
 
 <p align="center">
