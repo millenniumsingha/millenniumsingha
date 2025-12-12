@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Millennium+Singha;Software+Engineer+%7C+UQ+Honours+Student;Building+Impactful+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Millennium+Singha;Software+Engineer+%7C+UQ+Honours+Student;Building+Impactful+Technology" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -234,12 +234,12 @@ I'm a **Software Engineering Honours student** at **The University of Queensland
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=millenniumsingha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millenniumsingha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=millenniumsingha&show_icons=true&theme=tokyo-night&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millenniumsingha&layout=compact&theme=tokyo-night&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=millenniumsingha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=millenniumsingha&theme=tokyo-night&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
