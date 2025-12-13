@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:AC5CFF&height=280&section=header&text=Millennium%20Singha&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20UQ%20Honours%20Student&descSize=20&descAlignY=60&fontColor=ffffff"/>
+  <img src="assets/header.svg" width="100%" alt="Millennium Singha Header"/>
 </div>
 
 <p align="center">
