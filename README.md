@@ -151,11 +151,9 @@
 
 ## Research & Publications
 
-<p align="center">
-  <a href="https://www.researchgate.net/publication/332762115_A_Deep_Dissertion_of_Data_Science_Related_Issues_and_its_Applications">
-    <img src="https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.researchgate.net/publication/332762115_A_Deep_Dissertion_of_Data_Science_Related_Issues_and_its_Applications">
+  <img src="https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+</a>
 
 **"A Deep Dissertation of Data Science: Related Issues & Its Applications"**
 <br>
