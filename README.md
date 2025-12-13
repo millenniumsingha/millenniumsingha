@@ -114,22 +114,7 @@
 ## GitHub Analytics
 
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/millenniumsingha">
-          <img src="https://github-readme-stats.vercel.app/api?username=millenniumsingha&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Github Stats" width="100%" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/millenniumsingha">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=millenniumsingha&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=millenniumsingha&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
