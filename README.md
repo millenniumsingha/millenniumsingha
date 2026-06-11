@@ -3,164 +3,235 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Hola!+%F0%9F%91%8B+Welcome+to+my+codiverse;Decoding+Tech%2C+History+%26+Society;Just+figuring+it+out...+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-
-
-
----
-
-## About Me
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🎓-Software_Engineering_Honours_@_UQ-6366F1?style=for-the-badge" alt="Education UQ"/>
-  <img src="https://img.shields.io/badge/🎓-Diploma_Comp_Sci_@_Amity_Uni_India-6366F1?style=for-the-badge" alt="Education Amity"/>
-  <img src="https://img.shields.io/badge/📍-Queensland,_Australia-6366F1?style=for-the-badge" alt="Location"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=500&lines=Hola!+%F0%9F%91%8B+Welcome+to+my+codiverse;Decoding+Tech%2C+History+%26+Society;Just+figuring+it+out...+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Table_Tennis-★-ED8B00?style=flat-square" alt="Table Tennis"/>
-  <img src="https://img.shields.io/badge/History-★-3DDC84?style=flat-square" alt="History"/>
-  <img src="https://img.shields.io/badge/Social_Impact-★-FF6F00?style=flat-square" alt="Social Impact"/>
-  <img src="https://img.shields.io/badge/Technology-★-00629B?style=flat-square" alt="Technology"/>
-</p>
-
-<p align="center">
-  <i>Building things, breaking things, learning along the way.</i><br>
-  <sub>Curious about software, design, and making tech that actually helps people.</sub>
+  <a href="https://www.linkedin.com/in/millenniumsingha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.researchgate.net/profile/Millennium-Singha"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=millenniumsingha&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 ---
 
+```
+🎓  Software Engineering Honours @ UQ  |  Diploma of Comp Sci @ Amity Uni India
+📍  Queensland, Australia
+⚡  Building things, breaking things, learning along the way.
+```
 
-
-## Tech Stack
-
-<p align="center">
-  <b>Languages</b><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-
-<p align="center">
-  <b>Frameworks & Platforms</b><br>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
-</p>
-
-<p align="center">
-  <b>Tools & Technologies</b><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="VS"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-</p>
-
----
-
-## Featured Projects
-
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Project Cosmos</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        </p>
-        <p align="center">A revolutionary platform for interstellar communication and data exchange.</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Neural Nexus</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-        </p>
-        <p align="center">Advanced AI model for predictive analysis in complex systems.</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Quantum Guard</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-          <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white"/>
-        </p>
-        <p align="center">Next-gen security protocol leveraging quantum mechanics.</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Eco Sphere</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        </p>
-        <p align="center">Sustainable lifestyle tracker promoting green habits globally.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
----
-
-## GitHub Analytics
-
-
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=millenniumsingha&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div>
-
-
----
-
-
-
-## Achievements & Recognition
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/Dell-Campassador-007DB8?style=for-the-badge&logo=dell" alt="Dell"/>
-        <br><b>Dell Campassador</b>
-        <br><sub>Runner-Up</sub>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/UMEED-Team_Coordinator-brightgreen?style=for-the-badge&logo=ngo&logoColor=white" alt="UMEED"/>
-        <br><b>UMEED (NGO)</b>
-        <br><sub>Letter of Recommendation</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## Research & Publications
-
-<a href="https://www.researchgate.net/publication/332762115_A_Deep_Dissertion_of_Data_Science_Related_Issues_and_its_Applications">
-  <img src="https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
-</a>
-
-**"A Deep Dissertation of Data Science: Related Issues & Its Applications"**
 <br>
-<sub>Published in IEEE | Exploring challenges and real-world applications in data science</sub>
 
+## 🚀 Featured Projects
 
+> *Curated picks that show what I have been building lately.*
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ tlscertwa</h3>
+      <p align="center">
+        <a href="https://github.com/millenniumsingha/tlscertwa">
+          <img src="https://img.shields.io/badge/Enterprise_Security-475569?style=for-the-badge&logoColor=white" alt="Security"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TLS-334155?style=flat-square&logo=letsencrypt&logoColor=white"/>
+      </p>
+      <p align="center"><sub>Detects non-compliant TLS Certificates for IT/Security enterprise teams through distributed sensing amongst employees.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧩 Campus Sensory Map</h3>
+      <p align="center">
+        <a href="https://github.com/millenniumsingha/campus_sensory_map">
+          <img src="https://img.shields.io/badge/Social_Impact-059669?style=for-the-badge&logoColor=white" alt="Social Impact"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PWA-6D28D9?style=flat-square&logo=pwa&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Mobile--First-059669?style=flat-square&logo=google-maps&logoColor=white"/>
+      </p>
+      <p align="center"><sub>A progressive web app letting neurodivergent and sensory-sensitive students at UQ contribute and view sensory condition ratings for campus spaces.</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 Safelink</h3>
+      <p align="center">
+        <a href="https://github.com/millenniumsingha/Safelink">
+          <img src="https://img.shields.io/badge/Cross--Platform-7C3AED?style=for-the-badge&logoColor=white" alt="Cross Platform"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+      </p>
+      <p align="center"><sub>Cross-platform emergency alert app built with Kotlin Multiplatform and Compose for Android, iOS, and Desktop. ⭐2</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏏 CricOptima</h3>
+      <p align="center">
+        <a href="https://github.com/millenniumsingha/CricOptima">
+          <img src="https://img.shields.io/badge/Data_Science-C2410C?style=for-the-badge&logoColor=white" alt="Data Science"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      </p>
+      <p align="center"><sub>Fantasy cricket optimisation platform that builds winning teams using data science, gradient boosting, and linear programming. ⭐1</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Real-Time Info Dashboard</h3>
+      <p align="center">
+        <a href="https://github.com/millenniumsingha/real-time-info-dashboard">
+          <img src="https://img.shields.io/badge/Desktop_App-2563EB?style=for-the-badge&logoColor=white" alt="Desktop"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WPF-0078D4?style=flat-square&logo=windows&logoColor=white"/>
+      </p>
+      <p align="center"><sub>High-performance WPF desktop app visualising factory machine telemetry data in real-time with LiveCharts2, SkiaSharp, and MVVM. ⭐1</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 QLD Health Navigator</h3>
+      <p align="center">
+        <a href="https://github.com/millenniumsingha/qld_health_business_navigator">
+          <img src="https://img.shields.io/badge/Civic_Tech-0891B2?style=for-the-badge&logoColor=white" alt="Civic Tech"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web_App-0891B2?style=flat-square&logo=googlechrome&logoColor=white"/>
+      </p>
+      <p align="center"><sub>Web platform helping micro, small and medium health businesses in Queensland discover government support programs. ⭐1</sub></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+## 🧰 Tech Stack
+
+<details open>
+<summary><b>👨‍💻 Languages</b></summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,kotlin,py,ts,js,java,c&theme=dark&perline=7" alt="Languages"/>
+  </a>
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Frameworks & Platforms</b></summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,fastapi,androidstudio&theme=dark&perline=7" alt="Frameworks"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="WPF"/>
+  <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Technologies</b></summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio&theme=dark&perline=7" alt="Tools"/>
+  </a>
+</p>
+</details>
+
+<br>
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0C3FC,100:8EC5FC&height=100&section=footer"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=millenniumsingha&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  &nbsp;
+  <img width="49%" src="https://streak-stats.demolab.com/?user=millenniumsingha&theme=github-dark-dimmed&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millenniumsingha&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=millenniumsingha&theme=github-compact&hide_border=true" alt="Contribution Graph" width="98%"/>
+</p>
+
+<br>
+
+---
+
+<details>
+<summary><b>🏆 Achievements & Recognition</b></summary>
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Dell-Campassador-007DB8?style=for-the-badge&logo=dell" alt="Dell"/>
+      <br><b>Dell Campassador</b>
+      <br><sub>Runner-Up</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/UMEED-Team_Coordinator-059669?style=for-the-badge" alt="UMEED"/>
+      <br><b>UMEED (NGO)</b>
+      <br><sub>Letter of Recommendation</sub>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>📄 Research & Publications</b></summary>
+<br>
+
+<p align="center">
+  <a href="https://www.researchgate.net/publication/332762115_A_Deep_Dissertion_of_Data_Science_Related_Issues_and_its_Applications">
+    <img src="https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE"/>
+  </a>
+</p>
+
+**"A Deep Dissertation of Data Science: Related Issues & Its Applications"**  
+<sub>Published in IEEE. Exploring challenges and real-world applications in data science.</sub>
+
+</details>
+
+<details>
+<summary><b>🗂️ Other Projects</b></summary>
+<br>
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [dotnet-learning-lab](https://github.com/millenniumsingha/dotnet-learning-lab) | C#, .NET 10, WPF | Hands-on .NET 10 learning lab with playable demos ⭐1 |
+| [StyleNet](https://github.com/millenniumsingha/StyleNet) | Jupyter, CNN | Fashion MNIST image classification (~92% accuracy) |
+| [millennium_java_suite](https://github.com/millenniumsingha/millennium_java_suite) | Java, Swing | Showcase of Java mini-applications with GUI |
+| [NEWS_APP_ANDROID](https://github.com/millenniumsingha/NEWS_APP_ANDROID) | Java, Android | Android application for browsing news articles |
+
+</details>
+
+<br>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DDD6FE,50:E9D5FF,100:FECDD3&height=100&section=footer"/>
 </p>
