@@ -84,35 +84,6 @@
       <p align="center"><sub>Fantasy cricket optimisation platform that builds winning teams using data science, gradient boosting, and linear programming. ⭐1</sub></p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Real-Time Info Dashboard</h3>
-      <p align="center">
-        <a href="https://github.com/millenniumsingha/real-time-info-dashboard">
-          <img src="https://img.shields.io/badge/Desktop_App-2563EB?style=for-the-badge&logoColor=white" alt="Desktop"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WPF-0078D4?style=flat-square&logo=windows&logoColor=white"/>
-      </p>
-      <p align="center"><sub>High-performance WPF desktop app visualising factory machine telemetry data in real-time with LiveCharts2, SkiaSharp, and MVVM. ⭐1</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏥 QLD Health Navigator</h3>
-      <p align="center">
-        <a href="https://github.com/millenniumsingha/qld_health_business_navigator">
-          <img src="https://img.shields.io/badge/Civic_Tech-0891B2?style=for-the-badge&logoColor=white" alt="Civic Tech"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Web_App-0891B2?style=flat-square&logo=googlechrome&logoColor=white"/>
-      </p>
-      <p align="center"><sub>Web platform helping micro, small and medium health businesses in Queensland discover government support programs. ⭐1</sub></p>
-    </td>
-  </tr>
 </table>
 
 <br>
