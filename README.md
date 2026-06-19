@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/millenniumsingha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://www.researchgate.net/profile/Millennium-Singha"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=millenniumsingha&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <a href="https://www.researchgate.net/profile/Millennium-Singha"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
 </p>
 
 ---
